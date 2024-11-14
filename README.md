@@ -11,7 +11,7 @@ Learning to Differentiate Pairwise-Argument Representations for Implicit Discour
 ## Citation
 
 ```
-@inproceedings{10.1145/3627673.3679584,
+@inproceedings{wangLearningDifferentiatePairwiseArgument2024,
     author = {Wang, Zhipang and Hong, Yu and Lu, Yuxiang and Zhou, Xiabing and Yao, Jianmin and Zhou, Guodong},
     title = {Learning to Differentiate Pairwise-Argument Representations for Implicit Discourse Relation Recognition},
     year = {2024},
